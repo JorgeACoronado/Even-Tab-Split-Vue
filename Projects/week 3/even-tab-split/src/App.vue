@@ -124,15 +124,15 @@ input, select {
     flex: 1;
     padding: 10px;
     border-radius: 10px;
-    border: 1px solid #283618;
+    border: 1px solid #22223b;
 }
 
 button {
     padding: 10px 14px;
     border-radius: 10px;
     border: none;
-    background: #bc6c25;
-    color: #283618;
+    background: #4a4e69;
+    color: #22223b;
     cursor: pointer;
 }
 
@@ -147,11 +147,11 @@ button {
 .list li {
     padding: 10px;
     border-radius: 10px;
-    background: #fefae0;
+    background: #f2e9e4;
 }
 
 #summaryList li {
-    background: #606c38;
-    color:#283618;
+    background: #c9ada7;
+    color:#22223b;
 }
 </style>

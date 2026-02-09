@@ -22,6 +22,6 @@ section {
 section h3 {
   margin:0 0 6px;
   font-size: 14px;
-  color:#bc6c25;
+  color:#22223b;
 }
 </style>
